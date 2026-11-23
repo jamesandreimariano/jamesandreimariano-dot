@@ -14,8 +14,8 @@ I am an Information Technology student passionate about group programming, netwo
 * Focus Areas: Networking, Programming, IT Fundamentals
 
 ### 📂 Featured Projects
-[Simple Console Calculator](https://github.com) – An interactive C program that performs basic arithmetic operations with input validation and error handling.
-* ** [List Sorting & Merging](https://github.com) – A console-based program that combines multiple lists and organizes elements in sorted order using core algorithm logic.
+* [Simple Console Calculator](https://github.com) – An interactive C program that performs basic arithmetic operations with input validation and error handling.
+* [List Sorting & Merging](https://github.com) – A console-based program that combines multiple lists and organizes elements in sorted order using core algorithm logic.
 
 
 ### 📫 Connect With Me
