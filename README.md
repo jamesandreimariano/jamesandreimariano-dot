@@ -14,8 +14,9 @@ Tools & Software: Visual Studio Code, Microsoft Office, Jupyter Notebook
 Focus Areas: Networking, Programming, IT Fundamentals
 
 ### 📂 Featured Projects
-[Simple Cal] – Short one-sentence description of what it does and what language you used.
-[Project Name 2] – Short one-sentence description of another school or personal project.
+[Simple Console Calculator](https://github.com)** – An interactive C program that performs basic arithmetic operations with input validation and error handling.
+[List Sorting & Merging](https://github.com)** – A console-based program that combines multiple lists and organizes elements in sorted order using core algorithm logic.
+
 
 ### 📫 Connect With Me
 Email: jamesandreimariano@gmail.com
