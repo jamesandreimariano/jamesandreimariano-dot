@@ -9,9 +9,9 @@
 I am an Information Technology student passionate about group programming, networking, problem-solving, and building practical tech solutions.
 
 ### 🛠️ Technical Skills
-Languages: C, C++, Cobol, Python
-Tools & Software: Visual Studio Code, Microsoft Office, Jupyter Notebook
-Focus Areas: Networking, Programming, IT Fundamentals
+* Languages: C, C++, Cobol, Python
+* Tools & Software: Visual Studio Code, Microsoft Office, Jupyter Notebook
+* Focus Areas: Networking, Programming, IT Fundamentals
 
 ### 📂 Featured Projects
 [Simple Console Calculator](https://github.com)** – An interactive C program that performs basic arithmetic operations with input validation and error handling.
